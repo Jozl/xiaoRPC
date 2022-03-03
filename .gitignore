@@ -1,0 +1,8 @@
+# Project exclude paths
+/xiao-RPC-client/target/
+/xiao-RPC-codec/target/
+/xiao-RPC-common/target/
+/xiao-RPC-example/target/
+/xiao-RPC-protocol/target/
+/xiao-RPC-server/target/
+/xiao-RPC-transport/target/
